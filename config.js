@@ -2,7 +2,7 @@ module.exports = {
     dir: {
         source: {
             base: 'resources/',
-            templates: 'templates/'
+            templates: 'node_modules/@artprog/fsd-helper/templates/'
         }
     }
 }
