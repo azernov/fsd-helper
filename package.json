@@ -1,0 +1,30 @@
+{
+  "name": "@artprog/fsd-helper",
+  "version": "0.0.1",
+  "description": "CLI tool for helping to create folder&files structure in feature-sliced-design projects",
+  "main": "cli.js",
+  "dependencies": {
+    "glob": "^8.1.0",
+    "yargs": "^17.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azernov/bem-helper.git"
+  },
+  "keywords": [
+    "BEM",
+    "bem",
+    "javascript",
+    "js"
+  ],
+  "author": "artprog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azernov/fsd-helper/issues"
+  },
+  "homepage": "https://github.com/azernov/fsd-helper#readme",
+  "bin": "cli.js"
+}
